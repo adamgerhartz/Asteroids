@@ -1,8 +1,10 @@
 # Asteroids
 Project done as part of college curriculum. Understanding that other students could access this, I will not post any source code.
 
-Programmed in C++.
+I have two versions of this project. One programmed in Python and another written in C++.
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=7-ytHoV8uIU&feature=youtu.be">
-</iframe>
+Programmed in Python: https://youtu.be/DYdph4dD9gY
+
+Programmed in C++: https://www.youtube.com/watch?v=7-ytHoV8uIU&feature=youtu.be
+
+
